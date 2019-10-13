@@ -1,15 +1,19 @@
-/* nav style */
+/* nav style  tesing this save thing because what I put here is not shpwing up on git.io*/
+
 nav ul {
     background-color: lightgray;
     list-style-type: none;
     margin: 0;
     padding: 0;
+
     /*use overflow hidden to clear float*/
+
     overflow: hidden;
     }
     nav li {
         float: left;
       }
+
       nav li a {
         display: block;
         padding: 10px;
@@ -17,15 +21,19 @@ nav ul {
         background-color: #dddddd;
         text-decoration: none;
       }
+
       nav a:hover {
         background-color: aqua;
       }
+
       nav li .active {
         background-color: black;
         color: white;
 
       /* Social links*/
+
       }
+      
       ul.social-links {
         list-style-type: none;
         }
@@ -36,9 +44,11 @@ nav ul {
             border-radius:10px;
             text-align: center;
           }
+
           .social-links li:hover {
             background: gray;
           }
+
           .social-links a {
             color: black;
             text-decoration: none;
@@ -67,5 +77,7 @@ nav ul {
             right: 2%;
             top: 45%;
             }
+
+      
           
 
