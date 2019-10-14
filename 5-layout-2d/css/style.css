@@ -22,21 +22,22 @@
   background-position: center right;
   background-repeat: no-repeat;
 }
-  #cayote-img {
-    background: url("../images/cayote.jpg");
-    background-size: cover;
-    height: 100%;
-    background-position: center right;
-    background-repeat: no-repeat;
-  }
-  .col p {
-    padding: 20px 30px;
-    font-size: 1.5rem;
-  }
-  h2 {
-    text-align: center;
-  }
-  ![Solution](images/2-d-layout-table.png)
-  
+#cayote-img {
+  background: url("../images/cayote.jpg");
+  background-size: cover;
+  height: 100%;
+  background-position: center right;
+  background-repeat: no-repeat;
+}
+ .col p {
+  padding: 20px 30px;
+  font-size: 1.5rem;
+}
 
 
+
+h2 {
+  text-align: center;
+}
+
+/* This page is not functioning, I am not sure why*/ 
